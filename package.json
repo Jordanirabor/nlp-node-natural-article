@@ -1,0 +1,23 @@
+{
+  "name": "nlp-node-natural-article",
+  "version": "1.0.0",
+  "description": "Ranging from social media trends to medical records, the internet facilitates a never-ending creation of large volumes of unstructured textual data. The repercussion of this is the humanly fatigue that comes with processing and interpreting each snippet for meaning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordanirabor/nlp-node-natural-article.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordanirabor/nlp-node-natural-article/issues"
+  },
+  "homepage": "https://github.com/Jordanirabor/nlp-node-natural-article#readme",
+  "dependencies": {
+    "natural": "^0.6.3"
+  }
+}
